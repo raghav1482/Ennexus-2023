@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.234e124e.css",
+    "main.js": "/static/js/main.0dbb893c.js",
+    "static/js/787.61cca2c4.chunk.js": "/static/js/787.61cca2c4.chunk.js",
+    "static/media/img_5.png": "/static/media/img_5.9c8785a276f757f2e6d3.png",
+    "static/media/ship.png": "/static/media/ship.9cffcdbb1d1ff6ca4b94.png",
+    "static/media/img_4.png": "/static/media/img_4.c23200910f508eb81ac1.png",
+    "static/media/ces logo.png": "/static/media/ces logo.136fa870367eacec749d.png",
+    "static/media/img_1.png": "/static/media/img_1.7e3044c33da33a71ec69.png",
+    "static/media/univ-s.jpg": "/static/media/univ-s.4781e0af87d30528a991.jpg",
+    "static/media/sp1.png": "/static/media/sp1.1aa31c3cea36ddf9308d.png",
+    "static/media/img_3.png": "/static/media/img_3.316bd7fb1b68b9fc7fc0.png",
+    "static/media/sp2.png": "/static/media/sp2.e622b1bfc76fa58180c0.png",
+    "static/media/img_2.png": "/static/media/img_2.c4db4f2240f475354231.png",
+    "static/media/sp3.png": "/static/media/sp3.a12f727a4b4fa737402c.png",
+    "static/media/fb.png": "/static/media/fb.8a31692678c6aa799e33.png",
+    "static/media/ig.png": "/static/media/ig.c2139351772ab43a08a2.png",
+    "index.html": "/index.html",
+    "main.234e124e.css.map": "/static/css/main.234e124e.css.map",
+    "main.0dbb893c.js.map": "/static/js/main.0dbb893c.js.map",
+    "787.61cca2c4.chunk.js.map": "/static/js/787.61cca2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234e124e.css",
+    "static/js/main.0dbb893c.js"
+  ]
+}
