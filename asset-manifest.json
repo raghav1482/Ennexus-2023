@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.98fa3620.css",
-    "main.js": "/static/js/main.33f05517.js",
+    "main.js": "/static/js/main.013d693c.js",
     "static/js/787.4da09bc4.chunk.js": "/static/js/787.4da09bc4.chunk.js",
     "static/media/Akarsh Singh.jpg": "/static/media/Akarsh Singh.30d7403bd5c66ab0c64e.jpg",
     "static/media/Aditya Gaur.jpg": "/static/media/Aditya Gaur.f5640bbb3c9eb5ad7cfe.jpg",
@@ -9,9 +9,9 @@
     "static/media/img_5.png": "/static/media/img_5.9c8785a276f757f2e6d3.png",
     "static/media/ship.png": "/static/media/ship.9cffcdbb1d1ff6ca4b94.png",
     "static/media/dinkar_gupta.jpg": "/static/media/dinkar_gupta.df0af1d65105475a17ce.jpg",
+    "static/media/c2.jpg": "/static/media/c2.d9b6e31682adef247a39.jpg",
     "static/media/c3.jpg": "/static/media/c3.ad140b1f821be80342f1.jpg",
     "static/media/Ankush_Yadav.jpg": "/static/media/Ankush_Yadav.d77944bf81eb429f61f1.jpg",
-    "static/media/c2.jpg": "/static/media/c2.364d6b2f20bd039616e7.jpg",
     "static/media/img_4.png": "/static/media/img_4.c23200910f508eb81ac1.png",
     "static/media/ces logo.png": "/static/media/ces logo.136fa870367eacec749d.png",
     "static/media/img_1.png": "/static/media/img_1.7e3044c33da33a71ec69.png",
@@ -30,11 +30,11 @@
     "static/media/ig.png": "/static/media/ig.c2139351772ab43a08a2.png",
     "index.html": "/index.html",
     "main.98fa3620.css.map": "/static/css/main.98fa3620.css.map",
-    "main.33f05517.js.map": "/static/js/main.33f05517.js.map",
+    "main.013d693c.js.map": "/static/js/main.013d693c.js.map",
     "787.4da09bc4.chunk.js.map": "/static/js/787.4da09bc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98fa3620.css",
-    "static/js/main.33f05517.js"
+    "static/js/main.013d693c.js"
   ]
 }
