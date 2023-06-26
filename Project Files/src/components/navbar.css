@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+
+body {
+    background-color: #080808;
+}
+
+/* PC */
+.navcontainer {
+    position: fixed;
+    width: 100%;
+    background: linear-gradient(to bottom, #000000 0%, #83969700 110%);
+    display: flex;
+    justify-content: space-between;
+    z-index: 99999;
+    backdrop-filter: blur(2px);
+}
+
+.navcontainer a {
+    text-decoration: none;
+    color: white;
+}
+
+.navcontainer a:hover {
+    /* text-decoration: none; */
+    color: #47ff91;
+}
+
+.navcontainer ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 10px 10px 0px 10px;
+
+}
+
+.navcontainer li {
+    font-size: 25px;
+    margin-right: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.topnav {
+    overflow: hidden;
+    display: none;
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    background-color: #3d3d3db3;
+    font-family: 'Roboto Mono', monospace;
+    z-index: 9999;
+}
+
+.topnav #myLinks {
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.topnav a {
+    text-align: center;
+    color: white;
+    background-color: rgba(35, 71, 82, 0.74);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 27px;
+    display: block;
+    width: 100%;
+}
+
+.icon {
+    background-color: rgba(0, 0, 0, 0);
+    display: block;
+    position: fixed;
+    right: 10px;
+    top: 0px;
+    font-size: 37px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    z-index: 999999;
+}
+
+#logo {
+    z-index: 9999;
+    display: flex;
+    margin-left: -3rem;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.logoo {
+    width: 150px;
+    height: auto;
+}
+
+/* phone */
+#mobnav {
+    z-index: 299999;
+}
+
+@media (max-width:700px) {
+    .navcontainer {
+        display: none;
+    }
+
+    #mobnav {
+        display: block;
+    }
+
+    #logo {
+        background: linear-gradient(to bottom, #000000 0%, #7d7d7d00 110%);
+        backdrop-filter: blur(2px);
+        position: fixed;
+        width: 100%;
+        display: flex;
+        padding-top: 15px;
+        margin:auto;
+    }
+
+    .logoo {
+        width: 90px;
+        height: auto;
+    }
+}
+
+@media (min-width:701px) {
+    .navcontainer {
+        display: flex;
+    }
+
+    #mobnav {
+        display: none;
+    }
+}
