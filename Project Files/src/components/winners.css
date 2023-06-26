@@ -1,0 +1,30 @@
+.containerr{
+    display: flex;
+    border-radius: 20px;
+    width:max-content;
+    padding: 8px;
+    height: max-content;
+    background-color: #00e18f;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    font-size: 13px;
+    box-shadow: 2px 2px 2px black;
+}
+.containerr img{
+    border-radius: 15px;
+    width:8rem;
+}
+@media (max-width:414px){
+    .containerr{
+        width:28vw;
+        padding: 13px 2px 5px 2px;
+    } 
+    .containerr img{
+        width:25vw;
+    }
+    .containerr span{
+        font-size: 2vw;
+    }
+}
